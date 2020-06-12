@@ -1,15 +1,15 @@
 module.exports = {
     base: '/v-blog/',
-    title: '小辉同学的技术博客',
-    description: 'Vuepress blog demo',
+    title: '辉夜’s blog',
+    description: 'keep going',
     themeConfig: {
       // 你的GitHub仓库，请正确填写
       repo: 'https://github.com/scalerone/blog',
       // 自定义仓库链接文字。
       repoLabel: 'My GitHub',
       nav: [
-          { text: 'Home', link: '/' },
-          { text: 'FirstBlog', link: '/blog/FirstBlog.md' }
+          { text: '主页', link: '/' },
+          { text: '前端精进', link: '/blog/FirstBlog.md' }
       ],
       sidebar: [
         ['/', '首页'],
