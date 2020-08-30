@@ -1,6 +1,6 @@
 module.exports = {
     base: '/v-blog/',
-    title: '辉夜’s blog',
+    title: '辉月’s blog',
     description: 'keep going',
     themeConfig: {
       // 你的GitHub仓库，请正确填写
@@ -19,7 +19,7 @@ module.exports = {
           collapsable: true,
           children: [
             ['page1/新增标签','新增标签']
-         
+
           ]
         }
       ]
